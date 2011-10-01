@@ -139,6 +139,9 @@ int main ( int argc, char * argv[] ) {
     putchar('\n');
   }
 
+  // inform about DEBUG
+  printf("\nThese are just debug logs, please do not be scared.\nSimply undefine DEBUG in ku.c to get rid of them.\n\n");
+
 #endif
 
   return 0;

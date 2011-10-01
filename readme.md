@@ -1,6 +1,6 @@
 binary sudoku solver
 
-1. `make`
+1. `sudo make install`
 2. `sudo ku < grid`
 3. enjoy
 
